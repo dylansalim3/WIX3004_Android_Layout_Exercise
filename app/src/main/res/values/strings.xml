@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">W4_Layout</string>
+    <string name="main_title">Layout Activity</string>
+    <string name="main_desc">This screen is created with linear layout</string>
+    <string name="list_title1">Relative Layout</string>
+    <string name="list_desc1">RelativeLayout is a view group that displays child views in relative positions. The position of each view can be specified as relative to sibling elements or in positions relative to the parent RelativeLayout area.</string>
+    <string name="list_title2">Constraint Layout</string>
+    <string name="list_desc2">A ConstraintLayout is a android.view.ViewGroup which allows you to position and size widgets in a flexible way.</string>
+    <string name="list_title3">Grid Layout</string>
+    <string name="list_desc3">A layout that places its children in a rectangular grid. The grid is composed of a set of infinitely thin lines that separate the viewing area into cells. </string>
+
+
+    <string name="main_image_relative">Relative Picture</string>
+    <string name="main_image_constraint">Constraint Picture</string>
+    <string name="main_image_grid">Grid Picture</string>
+
+
+<!--    Relative Layout Activity-->
+    <string name="relative_layout_title">This is a Relative Layout Page</string>
+    <string name="relative_question">Enter your name</string>
+    <string name="back_btn">Back To Home</string>
+
+<!--    Constraint Layout Activity-->
+    <string name="image_circle">Circle Image</string>
+    <string name="image_android_circle">Android Circle</string>
+    <string name="home">Home</string>
+
+<!--    Calculator-->
+    <string name="buttonAdd">+</string>
+    <string name="buttonSubtract">-</string>
+    <string name="buttonMultiply">*</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonToggleSign">+/-</string>
+    <string name="buttonDecimalPoint">.</string>
+    <string name="buttonEquals">=</string>
+    <string name="buttonClear">C</string>
+    <string name="buttonClearMemory">MC</string>
+    <string name="buttonAddToMemory">M+</string>
+    <string name="buttonSubtractFromMemory">M-</string>
+    <string name="buttonRecallMemory">MR</string>
+    <string name="buttonSquareRoot">√</string>
+    <string name="buttonSquared">x²</string>
+    <string name="buttonInvert">1/x</string>
+    <string name="buttonSine">sin</string>
+    <string name="buttonCosine">cos</string>
+    <string name="buttonTangent">tan</string>
+</resources>

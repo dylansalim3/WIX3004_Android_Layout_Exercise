@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorRed">#EF6363</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="statementColor">#54a390</color>
+
+<!--    functional button color-->
+    <color name="colorBtnNormal">#010b0c</color>
+    <color name="colorBtnOperator">#0a3c40</color>
+    <color name="colorBtnEqual">#2bb4a7</color>
+</resources>

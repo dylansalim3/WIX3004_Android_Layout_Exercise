@@ -1,0 +1,40 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FunctionalNumberButtons">
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">85dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@drawable/func_number_btn</item>
+        <item name="android:useDefaultMargins">false</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+    </style>
+
+    <style name="FunctionalCalButton">
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">85dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/colorBtnEqual</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+    </style>
+
+    <style name="FunctionalOperatorButton">
+        <item name="android:textSize">40sp</item>
+        <item name="android:minHeight">85dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/colorBtnOperator</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_rowWeight">1</item>
+    </style>
+
+
+
+</resources>
